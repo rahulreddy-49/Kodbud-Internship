@@ -6,6 +6,7 @@ This repository contains the tasks completed during my Python Programming Intern
 
 - **Python Programming Internship Tasks/**: Contains the source code for various internship assignments.
   - [SimpleCalculator.py](Python%20Programming%20Internship%20Tasks/SimpleCalculator.py): A straightforward calculator that performs addition, subtraction, multiplication, and division based on user input.
+  - [GuessGame.py](Python%20Programming%20Internship%20Tasks/GuessGame.py): A number guessing game where the player tries to guess a randomly generated number between 1 and 100.
 
 ## How to Run
 
@@ -14,6 +15,10 @@ This repository contains the tasks completed during my Python Programming Intern
 3.  Run the desired script:
     ```bash
     python "Python Programming Internship Tasks/SimpleCalculator.py"
+    ```
+    or
+    ```bash
+    python "Python Programming Internship Tasks/GuessGame.py"
     ```
 
 ## License
