@@ -9,6 +9,7 @@ This repository contains the tasks completed during my Python Programming Intern
   - [GuessGame.py](Python%20Programming%20Internship%20Tasks/GuessGame.py): A number guessing game where the player tries to guess a randomly generated number between 1 and 100.
   - [WordCount.py](Python%20Programming%20Internship%20Tasks/WordCount.py): A simple script that counts the number of words in a sentence provided by the user.
   - [PasswordGenerator.py](Python%20Programming%20Internship%20Tasks/PasswordGenerator.py): A utility that generates a random password of a specified length using letters, numbers, and symbols.
+  - [ContactBook.py](Python%20Programming%20Internship%20Tasks/ContactBook.py): A simple contact management system to add, view, and search for contacts.
 
 ## How to Run
 
@@ -29,6 +30,10 @@ This repository contains the tasks completed during my Python Programming Intern
     or
     ```bash
     python "Python Programming Internship Tasks/PasswordGenerator.py"
+    ```
+    or
+    ```bash
+    python "Python Programming Internship Tasks/ContactBook.py"
     ```
 
 ## License
